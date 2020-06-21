@@ -7,22 +7,28 @@ img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
-First Paragraph: LAlalalalallalalal
+Background: LAlalalalallalalal
 
-## I'm so hungry
-Is this the second paragraph?
+## Title
+First paragraph lalala
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg) 
 
-this post is so chatty. Third paragraph
+Second paragraph hahaha
 
->What's this now?
+>quote something
 
-No.4.....Jeez....
+Another paragraph
+
+```
+share code
+rbind(x,y)
+colSums(data)
+```
 
 * List???
 * Intelligentsia narwhal austin
 * Literally meditation four
 * Microdosing hoodie woke
 
-That's enough...
+Conclusion
