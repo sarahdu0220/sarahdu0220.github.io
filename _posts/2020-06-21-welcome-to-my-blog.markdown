@@ -5,7 +5,7 @@ date: 2020-06-21 13:32:20 +0300
 description: I don't know what the hack this is. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [Test, Plot]
 ---
 Background: LAlalalalallalalal
 
