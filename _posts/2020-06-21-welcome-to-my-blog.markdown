@@ -31,6 +31,8 @@ colSums(data)
 * Literally meditation four
 * Microdosing hoodie woke
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{site.baseurl}}/assets/html/test-plot.html" height="auto" width="auto"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{site.baseurl}}/assets/html/test-plot.html" height="100%" width="100%"></iframe>
+
 
 Conclusion
