@@ -11,12 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Sarah Du # add your name
 author-img: sarah_du.jpg # add your photo
-about-author: ... # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+about-author: Quantitative professional specialized in multi-asset class return and risk forecasts, factor analysis, total portfolio asset allocation, investment research, and multi-client portfolio management # add description
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
+#social-github: # add your Github handle
+social-linkedin: https://www.linkedin.com/in/shuang-sarah-du-31b817120/# add your Linkedin handle
+social-email: sarahdu0220@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
