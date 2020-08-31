@@ -14,7 +14,7 @@ I am an Investment Associate working in the total fund team within one of the la
 ## Title
 First paragraph lalala
 
-![Favorate Picture]({{site.baseurl}}/assets/img/fuji.jpg) 
+#![Favorate Picture]({{site.baseurl}}/assets/img/fuji.jpg) 
 
 Second paragraph hahaha
 
