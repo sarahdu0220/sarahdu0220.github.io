@@ -3,7 +3,7 @@ layout: post
 title: This is the first post
 date: 2020-08-31
 description: A short introduction of myself # Add post description (optional)
-img: tree.jpg  # Add image post (optional)
+img: fuji.jpg  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Test, Plot]
 ---
