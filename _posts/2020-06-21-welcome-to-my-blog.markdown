@@ -1,13 +1,15 @@
 ---
 layout: post
-title: This is a test
-date: 2020-06-21 13:32:20 +0300
-description: I don't know what the hack this is. # Add post description (optional)
+title: This is the first post
+date: 2020-08-31
+description: A short introduction of myself # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Test, Plot]
 ---
-Background: LAlalalalallalalal
+Background
+
+I am an Investment Associate working in the total fund team within one of the largest institutional asset managers in Canada. I like design, arts, and travel. 
 
 ## Title
 First paragraph lalala
